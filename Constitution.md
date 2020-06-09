@@ -13,6 +13,8 @@
   - [Free Agency](#free-agency)
   - [Trading](#trades)
 - [Keepers & Auction Draft](#section-vi---keepers--auction-draft)
+  - [Keepers](#keepers)
+  - [Auction Draft](#auction-draft)
 - [Schedule](#section-vii---schedule)
 - [Playoffs](#section-viii---playoffs)
   - [Championship](#championship-bracket)
