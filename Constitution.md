@@ -8,12 +8,11 @@
   - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
-- [Rosters & Taxi Squad](#section-iv---rosters--taxi-squad)
-  - [Taxi Squad](#taxi-squad)
+- [Rosters](#section-iv---rosters)
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Rookie Draft](#section-vi---rookie-draft)
+- [Keepers & Auction Draft](#section-vi---keepers--auction-draft)
 - [Schedule](#section-vii---schedule)
 - [Playoffs](#section-viii---playoffs)
   - [Championship](#championship-bracket)
@@ -28,7 +27,7 @@
 
 Your league officers are available if you have any questions or are in need of assistance.
 
-If your question pertains to a feature provided by our [fantasy football hosting provider](https://sleeper.app/), please utilize their [support resources](https://support.sleeper.app/en/) before contacting a league officer.
+If your question pertains to a feature provided by our [fantasy football hosting provider](https://football.fantasysports.yahoo.com/), please utilize their [support resources](https://io.help.yahoo.com/contact/index?page=contact&locale=en_US&y=PROD_SPORTS_FAN_FOOTUS) before contacting a league officer.
 
 For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner.
 
@@ -51,7 +50,7 @@ If you cannot contact a commissioner or co-commissioner, and your issue is time-
 
 > Pending league votes to ratify this constitution and appoint co-commissioner
 
-**Tom Pritchard**
+**Name**
 
 - Text Message
   - (###) ###-####
@@ -95,9 +94,8 @@ Collusion will not be tolerated. A trade will be vetoed if there is evident coll
 
 ### Yearly Dues
 
-- The Yearly Dues for the league are \$20 per team
-- For the 2020 season this must be paid before the start of the regular season
-- Starting with the 2021 season yearly dues must be paid 2 weeks before the start of the yearly rookie draft
+- The Yearly Dues for the league are \$25 per team
+- Dues must be paid 2 weeks before the start of the yearly auction draft
 
 ### Penalties
 
@@ -107,41 +105,29 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## **Section III - Payout**
 
-- 1st Place: \$125 (62.5%)
-- 2nd Place: \$50 (25%)
-- 3rd Place: \$25 (12.5%)
+- 1st Place: \$145 (58%)
+- 2nd Place: \$70 (28%)
+- 3rd Place: \$35 (14%)
 
 The payouts detailed above shall be considered the actual payout amounts pending verification of payment from all owners. Payout percentages will be used if we are unable to collect some fees from all league owners.
 <br><br>
 
-## **Section IV - Rosters & Taxi Squad**
+## **Section IV - Rosters**
 
 ### Roster Positions
 
-| Position           | Starters | Maximum  |
-| ------------------ | -------- | -------- |
-| QB                 | 1        | No Limit |
-| RB                 | 1        | No Limit |
-| WR                 | 1        | No Limit |
-| TE                 | 1        | No Limit |
-| FLEX (RB/WR)       | 2        |
-| FLEX (WR/TE)       | 1        |
-| FLEX (QB/RB/WR/TE) | 1        |
-| D/ST               | 1        | No Limit |
-| BE                 | 18       | No Limit |
-| IR                 | 5        | 5        |
-| Taxi               | 6        | 6        |
-
-### Taxi Squad
-
-(aka practic squad)
-
-- Each team will have six taxi spots to stash younger players off the active roster
-  - Players on the taxi squad may not start in games
-  - Players can be activated from the taxi squad to the active roster at any time
-  - After the regular season starts the taxi squad locks and no more players may be added
-  - 1st or 2nd year players may be added to the squad
-    - Players that end the season with more that 2 years experience must be activated from the taxi squad
+| Position     | Starters | Maximum  |
+| ------------ | -------- | -------- |
+| QB           | 1        | No Limit |
+| RB           | 1        | No Limit |
+| WR           | 1        | No Limit |
+| TE           | 1        | No Limit |
+| FLEX (RB/WR) | 2        |
+| FLEX (WR/TE) | 1        |
+| K            | 1        | No Limit |
+| D/ST         | 1        | No Limit |
+| BE           | 9        | 9        |
+| IR           | 4        | 4        |
 
 <br><br>
 
@@ -149,41 +135,46 @@ The payouts detailed above shall be considered the actual payout amounts pending
 
 ### Free Agency
 
-- Each team will receive \$200 total for a Free Agency Aquisition Budget
-  - $100 for the regular season and $100 for the offseason
+- Each team will receive \$100 total for a Free Agency Aquisition Budget
 - Minimum bid to get a FA off waivers is \$1
 - Per transaction fee is \$0
-- FAAB dollars are tradeable
+- FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
 
 ### Trades
 
 - Trades will be processed after 24 hours, if collusion is suspected the matter will be put to a vote
-- During the offseason trading is still allowed
 - Trade deadline week 13 of the regular season
-- Draft picks up to 3 years in the future are tradable
 - Once both parties have accepted the trade, it cannot be withdrawn by one party due to player injury, suspension, or any other unforeseen circumstance.
 
 <br><br>
 
-## **Section VI - Rookie Draft**
+## **Section VI - Keepers & Auction Draft**
 
-### Rookie Draft Order
+### Keepers
 
-- The draft order for the rookie draft will be determined based on post-season results from the previous year
-- Picks 1-4 will be assigned in order of the toilet bowl resuls
-- Picks 5-10 will be assigned in inverse order of the postseason standings
+- Teams may optionally keep any number of players from year to year
+- The value of the player will increase each year that they are kept
+- The total value of all kept players will be subtracted form your draft budget for that year
+- Free agent signings will be given a default value of \$1
 
-### Rookie Draft Settings
+| Years Kept | Price Increase |
+| :--------: | :------------: |
+|    1st     |      +\$5      |
+|    2nd     |     +\$10      |
+|    3rd     |     +\$20      |
+|    4th     |     +\$40      |
+|    5th     |     +\$80      |
 
-- There will be 3 rounds of the rookie draft
-- The rookie draft will take place the Tuesday immediately following Memorial Day
-- The draft will follow a linear format just like the NFL draft
-- Each team will have 24 hours per pick
-- Trading draft picks is allowed during the rookie draft
-  - Trades during the draft will be processed as soon as it has been reviewed by the commissioner
-- If a team misses their pick the best available player in their queue will be taken for them
-  - If no players are in their queue Sleeper will take into consideration what positions my team needs, and it will take one of the higher-ranked players available
+> Due to budget limitations it is impossible to keep a player longer than 5 years
+
+### Auction Draft
+
+- The pick nomination order will be set randromly once the draft starts
+- Each team will have a draft budget of \$200 minus total keeper costs
+- Each team will have thirty seconds to nonimate a player
+- If a team misses their nonimation the best available player in their queue will be nominated for them
+  - If no players are in their queue Yahoo will nonimate a player
 
 <br><br>
 
@@ -204,31 +195,33 @@ The payouts detailed above shall be considered the actual payout amounts pending
 - The two teams with the best regular season records will be assigned to the top two seeds and receive a 1st round bye
 - The next four teams will be assigned their playoff seeding spot based on regular season record
 
-### Toilet Bowl
+### Consolation Braket
 
 - Seeding will be determined by end of regular season standing for the 4 teams not in the Championship Bracket
-- In the Toilet Bowl, the loser advances to the next round, until there becomes an ultimate loser, who is awarded the first overall pick 1.01
 
 <br><br>
 
 ## **Section IX - Scoring**
 
-| Passing          | Points                              |
-| :--------------- | :---------------------------------- |
-| Passing Yards    | +0.04 per yard (25 yards = 1 point) |
-| Passing TD       | +6                                  |
-| Pass Intercepted | -3                                  |
-| QB Sacked        | -1                                  |
+| Passing          | Points                                                          |
+| :--------------- | :-------------------------------------------------------------- |
+| Passing Attempts | -0.6                                                            |
+| Completions      | 1                                                               |
+| Passing Yards    | +0.03 per yard (35 yards = 1 point) <br> 10 points at 555 yards |
+| Passing TD       | +6                                                              |
+| Pass Intercepted | -3                                                              |
+| QB Sacked        | -1                                                              |
 
-| Rushing       | Points                             |
-| :------------ | :--------------------------------- |
-| Rushing Yards | +0.2 per yard (5 yards = 1 point ) |
-| Rushing TD    | +6                                 |
-| Rush Attenpts | -0.4                               |
+| Rushing       | Points                                                         |
+| :------------ | :------------------------------------------------------------- |
+| Rush Attenpts | -0.4                                                           |
+| Rushing Yards | +0.2 per yard (5 yards = 1 point ) <br> 10 points at 297 yards |
+| Rushing TD    | +6                                                             |
 
 | Receiving       | Points                               |
 | :-------------- | :----------------------------------- |
-| Receiving Yards | +0.07 per yard (15 yards = 1 point ) |
+| Receptions      | 1                                    |
+| Receiving Yards | +0.08 per yard (12 yards = 1 point ) |
 | Receiving TD    | +6                                   |
 
 | Misc            | Points |
@@ -236,46 +229,40 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | 2-Pt Conversion | +2     |
 | Fumble          | -2     |
 
-| Team Defense              | Points                              |
-| :------------------------ | :---------------------------------- |
-| Defense TD                | +6                                  |
-| Points Allowed 0          | +10                                 |
-| Points Allowed 1-6        | +7                                  |
-| Points Allowed 7-13       | +4                                  |
-| Points Allowed 14-20      | +1                                  |
-| Points Allowed 28-34      | -1                                  |
-| Points Allowed 35+        | -4                                  |
-| Hit on QB                 | +1                                  |
-| Sacks                     | +1                                  |
-| Sack Yards                | +0.05 per yard (20 yards = 1 point) |
-| Interceptions             | +3                                  |
-| INT Return Yards          | +0.05 per yard (20 yards = 1 point) |
-| Fumble Recovery           | +2                                  |
-| Fumble Return Yards       | +0.05 per yard (20 yards = 1 point) |
-| Tackle For Loss           | +1                                  |
-| Safety                    | +2                                  |
-| Forced Fumble             | +1                                  |
-| Blocked Kick              | +2                                  |
-| 2-Pt Conversion Returns   | +2                                  |
-| Missed FG Return Yards    | +0.05 per yard (20 yards = 1 point) |
-| Blocked Kick Return Yards | +0.05 per yard (20 yards = 1 point  |
+| Team Defense          | Points                              |
+| :-------------------- | :---------------------------------- |
+| Defense TD            | +6                                  |
+| Points Allowed 0      | +5                                  |
+| Points Allowed 1-6    | +4                                  |
+| Points Allowed 7-13   | +2                                  |
+| Points Allowed 14-20  | +1                                  |
+| Points Allowed 21-27  | 0                                   |
+| Points Allowed 28-34  | -1                                  |
+| Points Allowed 35+    | -2                                  |
+| Yards Allowed < 0     | +5                                  |
+| Yards Allowed 1-99    | +4                                  |
+| Yards Allowed 100-199 | +2                                  |
+| Yards Allowed 200-299 | +1                                  |
+| Sacks                 | +1                                  |
+| Interceptions         | +3                                  |
+| INT Return Yards      | +0.03 per yard (40 yards = 1 point) |
+| Fumble Recovery       | +2                                  |
+| Fumble Return Yards   | +0.03 per yard (40 yards = 1 point) |
+| Tackle For Loss       | +1                                  |
+| Safety                | +2                                  |
+| Blocked Kick          | +2                                  |
+| 4th Down Stops        | 2                                   |
+| Tackles for Loss      | 1                                   |
+| Three and Outs Forced | 1                                   |
+| Extra Point Returned  | 2                                   |
 
-| Special Teams Defense         | Points                              |
+| Special Teams                 | Points                              |
 | :---------------------------- | :---------------------------------- |
 | Special Teams TD              | +6                                  |
-| Special Teams Forced Fumble   | +1                                  |
 | Special Teams Fumble Recovery | +2                                  |
-| Punt Return Yards             | +0.05 per yard (20 yards = 1 point) |
+| Punt Return Yards             | +0.03 per yard (40 yards = 1 point) |
 | Punt Return TD                | +6                                  |
-| Kick Return Yards             | +0.05 per yard (20 yards = 1 point) |
+| Kick Return Yards             | +0.03 per yard (40 yards = 1 point) |
 | Kick Return TD                | +6                                  |
-
-| Special Teams Player                 | Points                              |
-| :----------------------------------- | :---------------------------------- |
-| Special Teams Player TD              | +6                                  |
-| Special Teams Player Forced Fumble   | +1                                  |
-| Special Teams Player Fumble Recovery | +2                                  |
-| Player Punt Return Yards             | +0.05 per yard (20 yards = 1 point) |
-| Player Punt Return TD                | +6                                  |
-| Player Kick Return Yards             | +0.05 per yard (20 yards = 1 point) |
-| Player Kick Return TD                | +6                                  |
+| Missed FG Return Yards        | +0.03 per yard (40 yards = 1 point) |
+| Blocked Kick Return Yards     | +0.03 per yard (40 yards = 1 point) |
