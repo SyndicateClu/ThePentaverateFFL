@@ -50,7 +50,7 @@
 | :------------------------------ | :------------: |
 | Wee Beady Eyes (2013 - present) | &#x1F949; 2016 |
 
-### Defunct Franchises
+## Defunct Franchises
 
 | Name                     | Awards |
 | :----------------------- | :----: |
