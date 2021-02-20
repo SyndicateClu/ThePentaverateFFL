@@ -1,4 +1,4 @@
-# TMQBFFL Constitution
+# Pentaverate FFL Constitution
 
 ## Table of Contents
 
