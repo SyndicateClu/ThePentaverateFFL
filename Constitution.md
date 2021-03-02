@@ -44,13 +44,13 @@ If your issue is time-sensitive please post on the the league message board or t
 - Discord
   - SyndicateClu#0146
 - Text Message
-  - (240) 252-4895's
+  - (240) 252-4895
 - Skype
   - SyndicateClu
 
 <br>
 
-### Co-Commissioner(s)
+### Co-Commissioners
 
 > Pending league votes to ratify this constitution and appoint co-commissioner
 
@@ -93,12 +93,12 @@ The commissioner is the final authority on all league matters, excluding dispute
 
 ### Rule Changes
 
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote).
 <br>
 
 ### Collusion
 
-Collusion will not be tolerated. A trade will be vetoed if there is evident collusion
+Collusion will not be tolerated. A trade will be vetoed if there is evident collusion.
 
 <br><br>
 
@@ -111,7 +111,7 @@ Collusion will not be tolerated. A trade will be vetoed if there is evident coll
 
 ### Penalties
 
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft. It will be up to the commissioners discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft. It will be up to the league officers discretion whether or not to replace them.
 
 <br><br>
 
@@ -134,8 +134,8 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | RB           | 1        | No Limit |
 | WR           | 1        | No Limit |
 | TE           | 1        | No Limit |
-| FLEX (RB/WR) | 2        |
-| FLEX (WR/TE) | 1        |
+| FLEX (RB/WR) | 2        | 2        |
+| FLEX (WR/TE) | 1        | 1        |
 | K            | 1        | No Limit |
 | D/ST         | 1        | No Limit |
 | BE           | 9        | 9        |
