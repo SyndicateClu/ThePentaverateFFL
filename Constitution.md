@@ -27,32 +27,41 @@
 
 ### Contacting League Officers
 
-Your league officers are available if you have any questions or are in need of assistance.
+The league officers consist of the commissioner and co-commissioner(s). Your league officers are available if you have any questions or are in need of assistance.
 
 If your question pertains to a feature provided by our [fantasy football hosting provider](https://football.fantasysports.yahoo.com/), please utilize their [support resources](https://io.help.yahoo.com/contact/index?page=contact&locale=en_US&y=PROD_SPORTS_FAN_FOOTUS) before contacting a league officer.
 
-For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner.
+For league-specific issues, please contact the league commissioner first. If the league commissioner is unavailable, contact the co-commissioner(s).
 
-If you cannot contact a commissioner or co-commissioner, and your issue is time-sensitive (for instance, if you are requesting a roster modification because you don't have access to the Internet), please use the league message board to make your request. In this way, we can verify the time of your request and make your roster change retroactively if necessary.
+If your issue is time-sensitive please post on the the league message board or text both the commissioner and co-commissioner(s) and to make your request. In this way, we can verify the time of your request and make your roster change retroactively if necessary.
 
 ### League Commissioner
 
 **Rob Myers**
 
-- Text Message
-  - (240) 252-4895
 - Email
   - rhmyers74@gmail.com
 - Discord
   - SyndicateClu#0146
+- Text Message
+  - (240) 252-4895's
+- Skype
+  - SyndicateClu
 
 <br>
 
-### Co-Commissioner
+### Co-Commissioner(s)
 
 > Pending league votes to ratify this constitution and appoint co-commissioner
 
-**Name**
+**Ryan Myers**
+
+- Text Message
+  - (###) ###-####
+- Email
+  - aaaaa@bbbbb.com
+
+**Regan Myers**
 
 - Text Message
   - (###) ###-####
@@ -69,6 +78,7 @@ The commissioner has the ability to (in appropriate situations) edit lineups (ei
 ### Co-Commissioner Site Powers
 
 The Co-Commissioner will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioner can attend to any urgent needs from league members.
+
 <br>
 
 ### Co-Commissioner Appointment
