@@ -37,7 +37,7 @@ If your issue is time-sensitive please post on the the league message board or t
 
 ### League Commissioner
 
-**Rob Myers**
+#### Rob Myers
 
 - Email
   - rhmyers74@gmail.com
@@ -54,14 +54,14 @@ If your issue is time-sensitive please post on the the league message board or t
 
 > Pending league votes to ratify this constitution and appoint co-commissioner
 
-**Ryan Myers**
+#### Ryan Myers
 
 - Text Message
   - (###) ###-####
 - Email
   - aaaaa@bbbbb.com
 
-**Regan Myers**
+#### Regan Myers
 
 - Text Message
   - (###) ###-####
