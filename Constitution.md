@@ -46,7 +46,7 @@ If your issue is time-sensitive please post on the the league message board or t
 - Text Message
   - (240) 252-4895
 - Skype
-  - SyndicateClu
+  - live:rhmyers74
 
 <br>
 
@@ -56,17 +56,25 @@ If your issue is time-sensitive please post on the the league message board or t
 
 #### Ryan Myers
 
-- Text Message
-  - (###) ###-####
 - Email
-  - aaaaa@bbbbb.com
+  - rmyers77@gmail.com
+- Discord
+  - rmyers77#2580
+- Text Message
+  - (240) 605-4703
+- Skype
+  - live:rmyers77
 
 #### Regan Myers
 
-- Text Message
-  - (###) ###-####
 - Email
-  - aaaaa@bbbbb.com
+  - ramyers03@yahoo.com
+- Discord
+  - Ram#8301
+- Text Message
+  - (301) 529-0742
+- Skype
+  - live:.cid.82adf02ca34a2f4
 
 <br>
 
