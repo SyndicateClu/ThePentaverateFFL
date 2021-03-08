@@ -39,10 +39,10 @@ If your issue is time-sensitive please post on the the league message board or t
 
 #### Rob Myers
 
-- Email
-  - rhmyers74@gmail.com
 - Discord
   - SyndicateClu#0146
+- Email
+  - rhmyers74@gmail.com
 - Text Message
   - (240) 252-4895
 - Skype
@@ -52,14 +52,14 @@ If your issue is time-sensitive please post on the the league message board or t
 
 ### Co-Commissioners
 
-> Pending league votes to ratify this constitution and appoint co-commissioner
+> Pending league votes to ratify this constitution and appoint co-commissioners
 
 #### Ryan Myers
 
-- Email
-  - rmyers77@gmail.com
 - Discord
   - rmyers77#2580
+- Email
+  - rmyers77@gmail.com
 - Text Message
   - (240) 605-4703
 - Skype
@@ -67,14 +67,12 @@ If your issue is time-sensitive please post on the the league message board or t
 
 #### Regan Myers
 
-- Email
-  - ramyers03@yahoo.com
 - Discord
   - Ram#8301
+- Email
+  - ramyers03@yahoo.com
 - Text Message
   - (301) 529-0742
-- Skype
-  - live:.cid.82adf02ca34a2f4
 
 <br>
 
