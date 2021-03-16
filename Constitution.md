@@ -58,8 +58,6 @@ If your issue is time-sensitive please post on the the league message board or t
 
 ### Co-Commissioners
 
-> Pending league votes to ratify this constitution and appoint co-commissioners
-
 #### Ryan Myers
 
 - Discord
@@ -90,8 +88,6 @@ The commissioner has the ability to (in appropriate situations) edit lineups (ei
 ### Co-Commissioner Site Powers
 
 The Co-Commissioner will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioner can attend to any urgent needs from league members.
-
-<br>
 
 ### Co-Commissioner Appointment
 
