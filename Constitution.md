@@ -1,4 +1,10 @@
-# Pentaverate FFL Constitution
+# The Pentaverate Fantasy Football League
+
+[TPFFL Home](README.md)
+
+---
+
+## Constitution
 
 ## Table of Contents
 
@@ -99,7 +105,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 
 ### Rule Changes
 
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote).
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
 <br>
 
 ### Collusion
