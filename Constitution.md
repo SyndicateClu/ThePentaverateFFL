@@ -230,7 +230,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Passing Yards    | +0.03 per yard (35 yards = 1 point) <br> 10 points at 555 yards |
 | Passing TD       | +6                                                              |
 | Pass Intercepted | -3                                                              |
-| QB Sacked        | -1                                                              |
+| QB Sacked        | -0.5                                                            |
 
 | Rushing       | Points                                                         |
 | :------------ | :------------------------------------------------------------- |
@@ -241,7 +241,7 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | Receiving       | Points                               |
 | :-------------- | :----------------------------------- |
 | Receptions      | 1                                    |
-| Receiving Yards | +0.08 per yard (12 yards = 1 point ) |
+| Receiving Yards | +0.07 per yard (10 yards = 1 point ) |
 | Receiving TD    | +6                                   |
 
 | Misc            | Points |
@@ -268,12 +268,12 @@ The payouts detailed above shall be considered the actual payout amounts pending
 | INT Return Yards      | +0.03 per yard (40 yards = 1 point) |
 | Fumble Recovery       | +2                                  |
 | Fumble Return Yards   | +0.03 per yard (40 yards = 1 point) |
-| Tackle For Loss       | +1                                  |
+| Tackle For Loss       | +0.5                                |
 | Safety                | +2                                  |
 | Blocked Kick          | +2                                  |
 | 4th Down Stops        | 2                                   |
 | Tackles for Loss      | 1                                   |
-| Three and Outs Forced | 1                                   |
+| Three and Outs Forced | 0.5                                 |
 | Extra Point Returned  | 2                                   |
 
 | Special Teams                 | Points                              |
