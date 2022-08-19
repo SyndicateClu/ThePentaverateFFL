@@ -6,15 +6,15 @@
 
 ## Keepers
 
-Last updated: 2021-08-26
+Last updated: 2022-08-19
 
-### Draft Budgets 2021
+### Draft Budgets 2022
 
 | Team                 | Budget |
 | -------------------- | ------ |
 | Pan Pacific Jaegers  | $115   |
 | Laurel Spartans      | $130   |
-| The Booster Roosters | $95    |
+| The Booster Roosters | $122  |
 | Show Me Dem TDS      | $147   |
 | Wee Beady Eyes       | $156   |
 | Picaso's Return-Men  | $117   |
@@ -58,11 +58,12 @@ Last updated: 2021-08-26
 
 | Player         | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | -------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Justin Herbert | QB       | LAC      | 2             | $1          | $6             |
-| Raheem Mostert | RB       | SF       | 3             | $5          | $20            |
-| Austin Ekeler  | RB       | LAC      | 4             | $1          | $36            |
-| Tyler Lockett  | WR       | SEA      | 2             | $14         | $19            |
-| Kyler Murray   | QB       | ARI      | 3             | $9          | $24            |
+| Justin Herbert | QB       | LAC      | 3             | $1          | $16             |
+| Amon-Ra St. Brown | WR       | DET       | 2             | $1          | $6            |
+| Adam Thielen | WR       | MIN      | 2             | $5          | $10            |
+| Tyler Lockett  | WR       | SEA      | 3             | $14         | $29            |
+| Dalton Schultz   | TE       | DAL      | 2             | $6          | $11            |
+| Jameis Wenston   | QB       | NO      | 2             | $1          | $6            |
 
 <br>
 
