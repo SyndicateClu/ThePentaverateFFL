@@ -6,7 +6,7 @@
 
 ## Keepers
 
-Last updated: 2022-08-19
+Last updated: 2022-08-23
 
 ### Draft Budgets 2022
 
@@ -20,7 +20,7 @@ Last updated: 2022-08-19
 | Picaso's Return-Men  | $117   |
 | Kung Fu Treachery    | $121   |
 | My Ball Zach Ertz    | $120   |
-| The Clit Commanders  | $188   |
+| The Clit Commanders  | $166   |
 | Eiferted             | $114   |
 
 <br>
@@ -133,8 +133,11 @@ Last updated: 2022-08-19
 
 | Player          | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | --------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Ryan Tannehill  | QB       | TEN      | 2             | $1          | $6             |
-| Diontae Johnson | WR       | PIT      | 2             | $1          | $6             |
+| Brandon Cooks  | WR       | HOU      | 2             | $1          | $6             |
+| Julio Jones | WR       | TB      | 2             | $5          | $10             |
+| Elijah Mitchell | RB       | SF      | 2             | $1          | $6             |
+| Trey Lance | QB       | SF    | 2             | $1          | $6             |
+| Travic Etienne | RB       | JAC      | 2             | $1          | $6             |
 
 <br>
 
