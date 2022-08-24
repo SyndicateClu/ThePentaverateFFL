@@ -6,7 +6,7 @@
 
 ## Keepers
 
-Last updated: 2022-08-23
+Last updated: 2022-08-24
 
 ### Draft Budgets 2022
 
@@ -17,7 +17,7 @@ Last updated: 2022-08-23
 | The Booster Roosters | $122  |
 | Show Me Dem TDS      | $147   |
 | Wee Beady Eyes       | $156   |
-| Picaso's Return-Men  | $117   |
+| Picaso's Return-Men  | $82   |
 | Kung Fu Treachery    | $156   |
 | The Hurts Locker | $182   |
 | The Clit Commanders  | $166   |
@@ -93,15 +93,16 @@ Last updated: 2022-08-23
 
 | Player            | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | ----------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Jonathan Taylor   | RB       | IND      | 2             | $19         | $24            |
-| Jarvis Landry     | WR       | CLE      | 2             | $1          | $6             |
-| Chase Edmonds     | RB       | ARI      | 2             | $2          | $7             |
-| Teddy Bridgewater | QB       | DEN      | 2             | $1          | $6             |
-| Jared Goff        | QB       | DET      | 2             | $6          | $16            |
-| Will Fuller       | WR       | MIA      | 2             | $1          | $6             |
-| Jalen Hurts       | QB       | PHI      | 2             | $1          | $6             |
-| Sammy Watkins     | WR       | BAL      | 2             | $1          | $6             |
-| Leonard Fournette | RB       | TB       | 2             | $1          | $6             |
+| Jonathan Taylor   | RB       | IND      | 3             | $19         | $34            |
+| Ja'Marr Chase   | WR       | CIN      | 2             | $6           | $11             |
+| Sony Michel     | RB       | MIA      | 2             | $1          | $6             |
+| Dawson Knox | TE       | BUF      | 2             | $1          | $6             |
+| Tua Tagovailoa       | QB       | MIA      | 2             | $6          | $11            |
+| DJ Moore      | WR       | CAR      | 2             | $8          | $13            |
+| Jalen Hurts       | QB       | PHI      | 3             | $1          | $16             |
+| Elijah Moore   | WR       | NYJ      | 2             | $1          | $6             |
+| Baker Mayfield | QB       | CAR       | 2             | $4          | $9             |
+| Devin Singletary   | RB       | BUF      | 2             | $1          | $6             |
 
 <br>
 
