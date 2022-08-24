@@ -13,7 +13,7 @@ Last updated: 2022-08-23
 | Team                 | Budget |
 | -------------------- | ------ |
 | Pan Pacific Jaegers  | $115   |
-| Laurel Spartans      | $130   |
+| Laurel Spartans      | $105   |
 | The Booster Roosters | $122  |
 | Show Me Dem TDS      | $147   |
 | Wee Beady Eyes       | $156   |
@@ -43,14 +43,11 @@ Last updated: 2022-08-23
 
 | Player         | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | -------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Tom Brady      | QB       | TB       | 2             | $2          | $7             |
-| T.Y. Hilton    | WR       | IND      | 2             | $1          | $6             |
-| DK Metcalf     | WR       | SEA      | 3             | $1          | $16            |
-| Tua Tagovailoa | QB       | MIA      | 2             | $1          | $6             |
-| Kirk Cousins   | QB       | MIN      | 3             | $2          | $17            |
-| Corey Davis    | WR       | NYJ      | 2             | $1          | $6             |
-| CeeDee Lamb    | WR       | DAL      | 2             | $1          | $6             |
-| Washington     | DEF      | WAS      | 2             | $1          | $6             |
+| Tom Brady      | QB       | TB       | 2             | $2          | $17             |
+| Rashaad Penny  | RB       | SEA      | 2             | $19          | $24             |
+| Michael Pittman Jr.     | WR       | IND      | 2            | $1          | $6            |
+| AJ Dillon | RB       | GB      | 2             | $1          | $6             |
+| Lamar Jackson  | QB       | BAL      | 2             | $37          | $42            |
 
 <br>
 
