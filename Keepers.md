@@ -19,7 +19,7 @@ Last updated: 2022-08-23
 | Wee Beady Eyes       | $156   |
 | Picaso's Return-Men  | $117   |
 | Kung Fu Treachery    | $121   |
-| My Ball Zach Ertz    | $120   |
+| The Hurts Locker | $182   |
 | The Clit Commanders  | $166   |
 | Eiferted             | $114   |
 
@@ -117,15 +117,13 @@ Last updated: 2022-08-23
 
 <br>
 
-## My Ball Zach Ertz
+## The Hurts Locker
 
 | Player         | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | -------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Darren Waller  | TE       | LV       | 3             | $1          | $16            |
-| Terry McLaurin | WR       | WFT      | 3             | $1          | $16            |
-| Derrick Henry  | RB       | TEN      | 4             | $1          | $36            |
-| James Robinson | RB       | JAX      | 2             | $1          | $6             |
-| Russell Gage   | WR       | ATL      | 2             | $1          | $6             |
+| Jaylen Waddle  | WR       | MIA       | 2             | $1          | $6            |
+| Devonte Smith | WR       | PHI      | 2             | $1          | $6            |
+| DaVante Parker| WR       | NE     | 2            | $1          | $6            |
 
 <br>
 
