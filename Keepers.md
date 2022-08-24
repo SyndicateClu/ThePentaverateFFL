@@ -18,7 +18,7 @@ Last updated: 2022-08-23
 | Show Me Dem TDS      | $147   |
 | Wee Beady Eyes       | $156   |
 | Picaso's Return-Men  | $117   |
-| Kung Fu Treachery    | $121   |
+| Kung Fu Treachery    | $156   |
 | The Hurts Locker | $182   |
 | The Clit Commanders  | $166   |
 | Eiferted             | $114   |
@@ -109,8 +109,10 @@ Last updated: 2022-08-23
 
 | Player       | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | ------------ | -------- | -------- | ------------- | ----------- | -------------- |
-| Alvin Kamara | RB       | NO       | 2             | $58         | $63            |
-| Cooper Kupp  | WR       | LAR      | 2             | $11         | $16            |
+| Cooper Kupp  | WR       | LAR      | 3             | $11         | $26            |
+| Deebo Samuel | WR       | SF       | 2             | $1         | $6            |
+| Mike Williams | WR       | LAC       | 2             | $1        | $6            |
+| Tony Pollard | RB       | DAL       | 2             | $1         | $6            |
 
 <br>
 
