@@ -6,7 +6,7 @@
 
 ## Keepers
 
-Last updated: 2022-08-24
+Last updated: 2022-08-25
 
 ### Draft Budgets 2022
 
@@ -16,7 +16,7 @@ Last updated: 2022-08-24
 | Laurel Spartans      | $105   |
 | The Booster Roosters | $122  |
 | Show Me Dem TDS      | $147   |
-| Wee Beady Eyes       | $156   |
+| Wee Beady Eyes       | $45   |
 | Picaso's Return-Men  | $82   |
 | Kung Fu Treachery    | $156   |
 | The Hurts Locker | $182   |
@@ -79,13 +79,14 @@ Last updated: 2022-08-24
 
 | Player           | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | ---------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Aaron Rodgers    | QB       | GB       | 2             | $2          | $7             |
-| Brandon Aiyuk    | WR       | SF       | 2             | $1          | $6             |
-| Curtis Samuel    | WR       | WAS      | 2             | $1          | $6             |
-| David Montgomery | RB       | CHI      | 2             | $1          | $6             |
-| Joe Burrow       | QB       | CIN      | 2             | $1          | $6             |
-| Ronald Jones II  | RB       | TB       | 2             | $2          | $7             |
-| John Brown       | WR       | LV       | 2             | $1          | $6             |
+| Joe Burrow       | QB       | CIN      | 3             | $1          | $16            |
+| Justin Fields    | QB       | SF       | 2             | $1          | $6             |
+| Brandon Aiyuk    | WR       | SF       | 3             | $1          | $16            |
+| Keenan Allen    | WR       | LAC      | 2             | $8          | $13             |
+| David Montgomery | RB       | CHI      | 3             | $1          | $16            |
+| Darnel Mooney  | WR      | CHI       | 2             | $1          | $6             |
+| Travis Kelce       | TE       | KC       | 2             | $41          | $46             |
+| George Kittle       | TE       | SF       | 2             | $31          | $36             |
 
 <br>
 
