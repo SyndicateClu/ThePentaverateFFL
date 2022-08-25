@@ -15,7 +15,7 @@ Last updated: 2022-08-25
 | Pan Pacific Jaegers  | $91    |
 | Laurel Spartans      | $105   |
 | The Booster Roosters | $122  |
-| Show Me Dem TDS      | $147   |
+| Show Me Dem TDS      | $52   |
 | Wee Beady Eyes       | $45   |
 | Picaso's Return-Men  | $82   |
 | Kung Fu Treachery    | $156   |
@@ -71,10 +71,14 @@ Last updated: 2022-08-25
 
 | Player         | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | -------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| T.J. Hockenson | TE       | DET      | 2             | $1          | $6             |
-| Amari Cooper   | WR       | DAL      | 2             | $13         | $18            |
-| Stefon Diggs   | WR       | BUF      | 2             | $13         | $18            |
-| D'Andra Swift  | RB       | DET      | 2             | $6          | $11            |
+| T.J. Hockenson | TE       | DET      | 3             | $1          | $16             |
+| A.J. Brown   | WR       | PHI      | 2             | $20         | $25            |
+| Stefon Diggs   | WR       | BUF      | 3             | $13         | $28            |
+| Carson Wentz  | QB       | WAS      | 2             | $1         | $6            |
+| Evan Engram | TE      | JAX     | 2             | $1          | $6            |
+| Derek Carr  | QB      | LV      | 2             | $1          | $6            |
+| Buffalo  | DEF       | BUF      | 2             | $4          | $9            |
+| Dallas | DEF       | DAL      | 2             | $1          | $6            |
 
 <br>
 
