@@ -12,7 +12,7 @@ Last updated: 2022-08-25
 
 | Team                 | Budget |
 | -------------------- | ------ |
-| Pan Pacific Jaegers  | $115   |
+| Pan Pacific Jaegers  | $91    |
 | Laurel Spartans      | $105   |
 | The Booster Roosters | $122  |
 | Show Me Dem TDS      | $147   |
@@ -27,15 +27,18 @@ Last updated: 2022-08-25
 
 ## Pan Pacific Jaegers
 
-| Player           | Position | NFL Team | Contract Year | Base Salary | Current Salary |
-| ---------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Josh Allen       | QB       | BUF      | 2             | $8          | $13            |
-| Antonio Gibson   | RB       | WAS      | 2             | $3          | $8             |
-| Damien Harris    | RB       | NE       | 2             | $1          | $6             |
-| Zach Moss        | RB       | BUF      | 2             | $1          | $6             |
-| Robert Woods     | WR       | LAR      | 2             | $23         | $28            |
-| Laviska Shenault | WR       | JAC      | 2             | $1          | $6             |
-| Mark Andriews    | TE       | BAL      | 3             | $3          | $18            |
+| Player              | Position | NFL Team | Contract Year | Base Salary | Current Salary |
+| ------------------- | -------- | -------- | ------------- | ----------- | -------------- |
+| Josh Allen          | QB       | BUF      | 3             | $8          | $23            |
+| Antonio Gibson      | RB       | WAS      | 3             | $3          | $18            |
+| Damien Harris       | RB       | NE       | 3             | $1          | $16            |
+| Tee Higgins         | WR       | CIN      | 2             | $2          | $7             |
+| Javonte Williams    | RB       | DEN      | 2             | $6          | $11            |
+| Michael Carter      | RB       | NYJ      | 2             | $1          | $6             |
+| Courtland Sutton    | WR       | DEN      | 2             | $1          | $6             |
+| Cam Akers           | RB       | LAR      | 2             | $1          | $6             |
+| JuJu Smith-Schuster | WR       | KC       | 2             | $3          | $8             |
+| Dallas Goedert      | TE       | PHI      | 2             | $3          | $8             |
 
 <br>
 
