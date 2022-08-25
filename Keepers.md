@@ -21,7 +21,7 @@ Last updated: 2022-08-25
 | Kung Fu Treachery    | $156   |
 | The Hurts Locker | $182   |
 | The Clit Commanders  | $166   |
-| Eiferted             | $114   |
+| Eiferted             | $135   |
 
 <br>
 
@@ -144,7 +144,6 @@ Last updated: 2022-08-25
 
 | Player          | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | --------------- | -------- | -------- | ------------- | ----------- | -------------- |
-| Patrick Mahomes | QB       | KC       | 4             | $4          | $39            |
-| Tyreek Hill     | WR       | KC       | 3             | $32         | $47            |
+| Nick Chubb | RB      | CLE       | 2             | $60          | $65            |
 
 <br>
