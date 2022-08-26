@@ -15,7 +15,7 @@ Last updated: 2022-08-25
 | Pan Pacific Jaegers  | $91    |
 | Laurel Spartans      | $105   |
 | The Booster Roosters | $122  |
-| Show Me Dem TDS      | $52   |
+| Show Me Dem TDS      | $98   |
 | Wee Beady Eyes       | $45   |
 | Picaso's Return-Men  | $82   |
 | Kung Fu Treachery    | $156   |
