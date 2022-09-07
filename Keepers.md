@@ -71,6 +71,7 @@ Last updated: 2022-08-25
 
 | Player         | Position | NFL Team | Contract Year | Base Salary | Current Salary |
 | -------------- | -------- | -------- | ------------- | ----------- | -------------- |
+| Najee Harris | RB | PIT | 2 | $41 | $46 |
 | T.J. Hockenson | TE       | DET      | 3             | $1          | $16             |
 | A.J. Brown   | WR       | PHI      | 2             | $20         | $25            |
 | Stefon Diggs   | WR       | BUF      | 3             | $13         | $28            |
