@@ -16,6 +16,8 @@
 
 |                                    Year                                     |       Champion       |      2nd Place      |      3rd Place       |
 | :-------------------------------------------------------------------------: | :------------------: | :-----------------: | :------------------: |
+| [2022](https://football.fantasysports.yahoo.com/league/pentavirateffl/2022) | The Booster Roosters  | Hurts So Good | Kung Fu Treachery |
+| [2021](https://football.fantasysports.yahoo.com/league/pentavirateffl/2021) | Pan Pacific Jaegers   | Wee Beady Eyes | Picaso's Return-Men |
 | [2020](https://football.fantasysports.yahoo.com/league/pentavirateffl/2020) | My Ball Zach Ertz   | The Clit Commanders | Laurel Spartans |
 | [2019](https://football.fantasysports.yahoo.com/league/pentavirateffl/2019) | The Clit Commanders  | Pan Pacific Jaegers | The Booster Roosters |
 | [2018](https://football.fantasysports.yahoo.com/league/pentavirateffl/2018) |  My Ball Zach Ertz   | Picaso's Return-Men | The Clit Commanders  |
