@@ -40,7 +40,9 @@
 
 | Name                               |            Awards             |
 | :--------------------------------- | :---------------------------: |
-| My Ball Zach Ertz (2016 - present) | &#x1F947; 2020 &#x1F947; 2018 &#x1F947; 2016 |
+| Hurts So Good (2022) | &#x1F948; 2022 |
+| The Hurts Locker (2021) | |
+| My Ball Zach Ertz (2016 - 2020) | &#x1F947; 2020 &#x1F947; 2018 &#x1F947; 2016 |
 | The Hype is Real (2013 - 2015)     | &#x1F948; 2015 &#x1F949; 2013 |
 
 | Name                          | Awards |
